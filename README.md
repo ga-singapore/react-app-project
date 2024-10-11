@@ -1,11 +1,21 @@
-# TODO
+# React App Project
 
-## Internal resources
+## About
 
-✏️ [Instructor Guide](./internal-resources/instructor-guide.md)
+In this project, students will build a React application linked to a public API, with simple CRUD using [Airtable](https://airtable.com/).
 
-🏗️ [Release Notes](./internal-resources/release-notes.md)
+## Prerequisites
 
----
+This project requires an understanding of React applications built using Javascript, Fetch, and React Components and Hooks
 
-**Find a 👾 bug 👾 or have suggestions? [Let us know](https://git.generalassemb.ly/modular-curriculum-all-courses/universal-resources-internal/blob/main/module-feedback.md)!**
+## Content
+
+[Project Journey](./project-journey/README.md)
+
+[Project Requirements](./project-requirements/README.md)
+
+[Project Details](./project-details/README.md)
+
+[Project Deliverables](./project-deliverables/README.md)
+
+[Project Requirements PDF](./project-requirements/assets/project-requirements.pdf)

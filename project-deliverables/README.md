@@ -1,16 +1,16 @@
-# ![React App Project - Project Deliverables](./assets/hero.png)
+# React App Project - Project Deliverables
 
 ## Contents
 
 **Deliverable details**:
 
-*   Project planning deliverable
-*   GitHub repo deliverables
-*   (Optional) Deployed app link deliverable
+- Project planning deliverable
+- GitHub repo deliverables
+- (Optional) Deployed app link deliverable
 
 **Submitting deliverables**:
 
-*   Submitting your deliverables
+- Submitting your deliverables
 
 ## Project planning deliverable
 
@@ -28,13 +28,13 @@ If you are using Trello, this [video](https://www.youtube.com/watch?v=l3F3l3psqX
 
 You will submit a public board (e.g. Trello) with these project planning details:
 
-*   MVP user stories, written in the following template: **As a \[user role\], I want \[feature\], so that \[reason\].** If the reason is obvious, it can be excluded.
-*   Wireframes for your app's main pages. For example, if you were building a blogging app, you might have wireframes for a landing page, the posts index page, and the add post page.
+- MVP user stories, written in the following template: **As a \[user role\], I want \[feature\], so that \[reason\].** If the reason is obvious, it can be excluded.
+- Wireframes for your app's main pages. For example, if you were building a blogging app, you might have wireframes for a landing page, the posts index page, and the add post page.
 
 To organise this information, set up the public board for your project with the following **lists**:
 
-*   **MVP User Stories**: To hold your MVP user stories. Each user story should be an individual card in the list.
-*   **Wireframes**: To hold the wireframes for your app. Each wireframe should be an individual card on the list. You may also want to include Wireframes built with your stretch goals in mind. If you do this, ensure that these cards are clearly labeled.
+- **MVP User Stories**: To hold your MVP user stories. Each user story should be an individual card in the list.
+- **Wireframes**: To hold the wireframes for your app. Each wireframe should be an individual card on the list. You may also want to include Wireframes built with your stretch goals in mind. If you do this, ensure that these cards are clearly labeled.
 
 During planning, you may want to include additional user stories that describe stretch goal features that go beyond the project requirements. Ensure these are in a separate list called **Stretch Goal User Stories** on your Trello board.
 
@@ -72,14 +72,13 @@ Replacing `<link>` (including the `<` and `>`) with a link to your project plann
 
 ### Submitting your GitHub repo links
 
-You will submit a single link to the main **_public_** GitHub repos that you are using for the front-end and back-end of your MERN Stack CRUD App Group Project below in the following format:
+Submit a link to the public GitHub repo that you are using for your React App Project below in the following format::
 
 ```plaintext
-Front-end GitHub repo link: <link>
-Back-end GitHub repo link: <link>
+GitHub repo link: <link>
 ```
 
-Replacing `<link>` (including the `<` and `>`) with a link to your front-end and back-end GitHub repos.
+Replacing `<link>` (including the `<` and `>`) with a link to your GitHub repo.
 
 ### (Optional) Submitting your deployed app link
 
