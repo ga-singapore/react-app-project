@@ -1,6 +1,6 @@
 # React App Project - Project Details
 
-## ## Notes and guidance
+## Notes and guidance
 
 ### Project recommendations
 
