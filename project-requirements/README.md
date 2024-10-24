@@ -8,6 +8,14 @@
 
 ## Requirements
 
+The minimum requirements for the App is as follows (technical requirements for 1.1):
+- 5 components
+- 4 props
+- 2 useState
+- 2 React router routes
+- 1 lifting state
+
+
 <embed src="./assets/project-requirements.pdf" width="100%" height="700px" type="application/pdf">
 
 ## Evaluation
