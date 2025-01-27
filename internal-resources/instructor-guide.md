@@ -1,5 +1,7 @@
-# ![Instructor Guide](../assets/instructor-guide.png)
-
+<h1>
+  <span class="prefix"></span>
+  <span class="headline">Instructor Guide</span>
+</h1>
 ## What's included?
 
 This is the repo for an individual Browser-Based Game Project. It includes:
@@ -8,12 +10,12 @@ This is the repo for an individual Browser-Based Game Project. It includes:
 - Browser-Based Game Project Requirements
 - Browser-Based Game Project Recommended Games
 - Browser-Based Game Project Details
-- Browser-Based Game Project Deliverables [students submit links to project planning materials, a front-end and back-end GitHub repo, and a deployed app throughout project week. This can be customized - see the **Customizing deliverables** section]
+- Browser-Based Game Project Deliverables [students submit links to project planning materials, a front-end and back-end GitHub repo, and a deployed app throughout project week. This can be customised - see the **Customising deliverables** section]
 - Browser-Based Game Project Feedback [in Canvas only]
 
-## Customizing your project week
+## Customising your project week
 
-Customize your project week by adding to the existing project documentation. Existing content should not be changed, but you may remove it if there are direct conflicts with your customizations. Ensure you're still providing students with enough background information to succeed during project week if you do this.
+Customise your project week by adding to the existing project documentation. Existing content should not be changed, but you may remove it if there are direct conflicts with your customisations. Ensure you're still providing students with enough background information to succeed during project week if you do this.
 
 You should not add, remove, or alter any project requirements.
 

@@ -1,4 +1,8 @@
-# ![React App Project - Project Journey](./assets/hero.png)
+<h1>
+  <span class="prefix"></span>
+  <span class="headline">React App Project</span>
+  <span class="subhead">Project Journey</span>
+</h1>
 
 Project week is when students typically learn the most. During this week you'll have fewer lectures and deliverables that are not related to your project. Instead, you'll primarily be self-directed to plan, build, and complete your project.
 

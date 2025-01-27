@@ -1,4 +1,8 @@
-# React App Project - Project Requirements
+<h1>
+  <span class="prefix"></span>
+  <span class="headline">React App Project</span>
+  <span class="subhead">Project Requirements</span>
+</h1>
 
 ## For this project, you'll build a React application. You get to decide what you want to build as long as it meets the technical requirements outlined below.
 
@@ -8,7 +12,7 @@
 
 ## Requirements
 
-The minimum requirements for the App is as follows (technical requirements for 1.1):
+The minimum requirements for the App is as follows (technical requirements for 1.1 below):
 - 5 components
 - 4 props
 - 2 useState

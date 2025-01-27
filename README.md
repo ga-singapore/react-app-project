@@ -1,5 +1,7 @@
-# React App Project
-
+<h1>
+  <span class="prefix"></span>
+  <span class="headline">React App Project</span>
+</h1>
 ## About
 
 In this project, students will build a React application linked to a public API, with simple CRUD using [Airtable](https://airtable.com/).

@@ -1,5 +1,8 @@
-# React App Project - Project Details
-
+<h1>
+  <span class="prefix"></span>
+  <span class="headline">React App Project</span>
+  <span class="subhead">Project Details</span>
+</h1>
 ## Notes and guidance
 
 ### Project recommendations
@@ -17,7 +20,7 @@ Here are some quick tips to get your project started:
 - Discuss your app idea with an instructor to get feedback before you dive too deep into planning.
 - **_Keep it simple._** Minimum Viable Product (MVP) functionality that looks great and works well is better than extra functionality added to an app without polish.
 - Theme your app to give it a personal touch.
-- Prioritize and implement user stories step-by-step, one at a time. Develop features in a way that allows you to test as you go - try your best to follow the flow of data through your app.
+- Prioritise and implement user stories step-by-step, one at a time. Develop features in a way that allows you to test as you go - try your best to follow the flow of data through your app.
 - Add comments to your code where it makes sense to do so. Most code is self-documenting, and you shouldn't add comments explaining the obvious. Ideally, comments should explain the **_why_** of code where it's necessary.
 
 ### Project assistance
